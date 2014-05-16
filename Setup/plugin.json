@@ -1,0 +1,15 @@
+{
+    "title": "Google Search",
+    "version": "1.00",
+    "name": "GoogleSearch",
+    "description": "Google search",
+    "author": "ImpressPages",
+    "options": [
+        {
+            "label": "Search engine ID",
+            "name": "searchEngineID",
+            "type": "text",
+            "default": "000000000000000000000:xxxxxxxxxxx"
+        }
+    ]
+}
